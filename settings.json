@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "mdh9461207.aternos.me:53855",
     "port": 53855,
     "version": "",
     "try-creative": false
